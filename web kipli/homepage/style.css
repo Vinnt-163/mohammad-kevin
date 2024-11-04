@@ -1,0 +1,44 @@
+        /* Gaya umum */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: aquamarine;
+        }
+        
+        /* Kotak konten */
+        .container {
+            text-align: center;
+            background-color: #ffffff;
+            padding: 40px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        
+        /* Header */
+        h1 {
+            color: #333;
+        }
+        
+        /* Teks paragraf */
+        p {
+            color: #666;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        .btn {
+            color: aquamarine;
+            font-size: 10px;
+            border-radius: 16px;
+            padding: 10px 20px;
+            background-color: #333;
+            border: none;
+            cursor: pointer;
+        }
+        
+        
